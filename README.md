@@ -9,5 +9,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)]()
 ### 📜 JavaScript
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express)]()
-## 🧠 Learning 
+### 🧠 Learning 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,php)]()
